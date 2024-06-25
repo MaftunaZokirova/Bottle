@@ -1,3 +1,6 @@
+# Maftuna Zokirova
+
+
 class Bottles:
     #def __init__(self) -> None:
        # print("Default constructor")
